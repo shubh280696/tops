@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+
+nav{
+    display: flex;
+
+    background-color: black;
+    color: black;
+    font-weight: bold;
+}
+.allcard{
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 23px;
+}
+.bg{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.shubh{
+    padding: 23px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 12vh;
+    background-color: cadetblue;
+    color: rgb(14, 13, 13);
+    font-family: 'Lato', sans-serif;
+}
