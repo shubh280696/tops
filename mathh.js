@@ -1,8 +1,8 @@
 // ceil()	It returns a smallest integer value, greater than or equal to the given number.
 
-console.log("ceil()",Math.ceil(12.5))
 console.log("ceil()",Math.ceil(12.3))
-console.log("ceil()",Math.ceil(12.7))
+console.log("ceil()",Math.ceil(12.3))
+console.log("ceil()",Math.ceil(18.3))
 
 // trunc()	It returns an integer part of the given number.
 
